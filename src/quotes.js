@@ -63,6 +63,10 @@ randomNum = Math.floor((Math.random()*quotes.length))
 quote = quotes[randomNum]
 band = bands[randomNum]
 
+function refreshPage() {
+  window.location.reload(false);
+}
+
 return (
     <>
     <Holder>
@@ -70,7 +74,7 @@ return (
     <Artist>{band}</Artist>
     </Lyrics>
     </Holder>
-    <Refresh className="refresh" type="submit">New Quote</Refresh>
+    <Refresh className="refresh" type="submit" onClick={refreshPage}>New Quote</Refresh>
     </>
 )
 }
