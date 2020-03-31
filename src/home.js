@@ -58,25 +58,25 @@ function Home() {
       </h1>
       <p className="home-p">
         <P1>
-          Kayla is an amazing young woman who has an awesome personality and
-          sense of humor, and absolutely beautiful.
+          You are an amazing young woman who has an awesome personality, sense
+          of humor, and you are absolutely beautiful.
         </P1>
         <P2>
           You have many great goals set for yourself setting up great
-          expectations for your future. Not only are thse great goals but they
-          also involve helping other humas, just this alone shows me how much of
-          a caring person you are.
+          expectations for your future. Not only are these great goals but they
+          also involve helping other humans, just this alone shows me how much
+          of a caring person you are.
         </P2>
         <P3>
-          You have a posotive mindset and will of seeing the future for whatever
+          You have a positive mindset and will for seeing the future in whatever
           may come.
         </P3>
         <P4>
           You have been through so much in life and can talk openly and show
-          others that things will be better.
+          others that things will get better.
         </P4>
         <P5>
-          Your life expieriences wether good or bad have made u the awesome
+          Your life experiences wether good or bad have made you the awesome
           person you are today.
         </P5>
         <P6>I cant wait to spend many many days with you!</P6>
