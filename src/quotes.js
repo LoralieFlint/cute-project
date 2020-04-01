@@ -130,6 +130,7 @@ function refreshPage() {
   window.location.reload(false);
 }
 
+
 return (
     <>
     <Holder>
